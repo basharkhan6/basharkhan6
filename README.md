@@ -1,7 +1,7 @@
 ### Hey there 👋
 I'm **Bashar**
 
-I am a student of Computer Science and Engineering 💻 with a passion for the Java[![Java Icon](https://imgur.com/download/h3Yx8Yv/")](https://www.oracle.com/java) ecosystem, Spring[![Spring Icon](https://imgur.com/download/L0dwAuB/)](https://spring.io), REST APIs, and, of course, security.
+I am a student of Computer Science and Engineering 💻 with a passion for the Java[![Java Icon](https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg)](https://www.oracle.com/java) ecosystem, Spring[![Spring Icon](https://imgur.com/download/L0dwAuB/)](https://spring.io), REST APIs, and, of course, security.
 Recently I have finished [Web Quiz Engine](https://github.com/basharkhan6/Web_Quiz_Engine) Project. You find most of my work in [GitHub](https://github.com/basharkhan6) and [Codepen](https://codepen.io/basharkhan6/pens/showcase)(Front-End).
 
 I'm generally hangging around on [Twitter ![Twitter Icon](https://imgur.com/download/qM5Sqse/)](https://twitter.com/bashar_khan6). You can also contact me by email📫 basharkhan6@gmail.com
